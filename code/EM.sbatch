@@ -12,7 +12,7 @@
 
 module load R/4.2.0  
 
-cd /home/sudhamshu/DASM
+cd /home/sudhamshu/project-macs30123
 echo "job started at `date`"
 Rscript iterate_em.R
 echo "job finished at `date`"
