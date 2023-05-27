@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --account=pi-jevans
+#SBATCH --account=macs30123
 #SBATCH --job-name=netEM   # job name
 #SBATCH --output=netEM.out # output log file
 #SBATCH --error=netEM.err  # error file
